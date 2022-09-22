@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Nanjing University, 2020 - Now
+* B.E. in Nanjing University, 2020 - Now
 
 Work experience
 ======
