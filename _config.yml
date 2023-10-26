@@ -83,9 +83,9 @@ author:
   name             : "Lifan Sun"
   avatar           : "profile.jpg"
   bio              : "Undergraduate at Nanjing University, China"
-  location         : "Nanjing, Jiangsu"
+  location         : "Nanjing, China"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
