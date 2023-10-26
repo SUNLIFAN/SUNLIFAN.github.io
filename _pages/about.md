@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 ## About me
-- 🎓 I'm studying Software Engineering in Nanjing University.
-- 🌱 I’m currently learning Deep Learning and Test Automation
+- 🎓 I am a senior undergraduate at Software Institute, Nanjing University.
+- 😄 I’m currently interested in Programming Languages and Machine Learning Systems.
 - 📫 How to reach me: lifansun1412@gmail.com
-- 😄 I’m currently interested in Deep learning and Automated Software Engineering
 
